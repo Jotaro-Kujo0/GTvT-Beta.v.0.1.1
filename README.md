@@ -25,16 +25,24 @@ it was first made for diabetic retinopathy but it was also trained for the disea
 İt would mean alot if people can give advise and ways to improve
 
 the sources I use:
+
 Tenser flow and similar sites.(for machine training)
+
+
 EyePACS
+
 ISBI 2019 cataract dataset
+
 Local hospital photo archives (private)
+
 Kaggle sites
+
 I will add on to this as I make new versions.
 
 NOTE!!!!!!!!
+
 I made this system to work with a device in mind
-so if you want to use this project for anything, please contact me privately
-You may need to alrter slot of things
+so if you want to use this project for anything, please contact me privatetly
+You may need to alter alot of things
 
 Have a nice experience :)
