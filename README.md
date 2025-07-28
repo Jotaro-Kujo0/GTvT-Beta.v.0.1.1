@@ -8,11 +8,17 @@ it different for pressure related diseases though. It takes readings from data m
 it was trained with open sources that I will list at the end.
 
 it was first made for diabetic retinopathy but it was also trained for the diseases below:
+
 1.diabetic retinopathy (and its stages)
+
 2.cataract
+
 3.myopic
+
 4.astigmatism
+
 5.corneal scars 
+
 6.Glaucoma (by pressure testing)
 
 İt is the first version afterall, so it would have few issues etc.
